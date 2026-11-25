@@ -1,0 +1,21 @@
+Com_PBcfg.pbi: \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\Appl\GenData\Com_PBcfg.c \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\Appl\GenData/Com_Cfg.h \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\Appl\GenData/Com_Types.h \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\BSW\_Common\ComStack_Types.h \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\BSW\_Common/Std_Types.h \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\BSW\_Common/Platform_Types.h \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\BSW\_Common/Compiler.h \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\Appl\Include\Compiler_Cfg.h \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\Appl\GenData\Rte_Compiler_Cfg.h \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\Appl\Include/Cdd_Tp_Compiler_Cfg.h \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\Appl\Include/Cdd_Com_Compiler_Cfg.h \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\Appl\GenData\Os_Compiler_Cfg.h \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\Appl\GenData\ComStack_Cfg.h \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\Appl\GenData/Com_PBcfg.h \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\Appl\GenData/Com_Cbk.h \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\Appl\GenData/Com_Cot.h \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\Appl\Include\MemMap.h \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\Appl\GenData/PduR_Cfg.h \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\Appl\GenData/PduR_Types.h \
+  C:\Vector\CBD1800257_D01_S32K1xx\Applications\S32K144_Start_new_IAR\Appl\GenData/PduR_Com.h
